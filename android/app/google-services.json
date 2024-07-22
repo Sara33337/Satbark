@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "444519999956",
+    "project_id": "satbrak-41e84",
+    "storage_bucket": "satbrak-41e84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444519999956:android:df519ed274d6b781b14e41",
+        "android_client_info": {
+          "package_name": "com.example.amazon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsuguDX6DRS3fBUW81-u1xispPSSAPEyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
